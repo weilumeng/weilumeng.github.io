@@ -8,39 +8,42 @@ toc: true
 If you don't want your name to appear on the commit, please contact me and I'll delete it as soon as possible.
 {{<end>}}
 
-## **孟维琦 (Archie Meng)**
+## **孟维璐 (Vicky Meng)**
 
-自动化学院\
-中南大学, 长沙/
+金融学院\
+中南财经政法大学, 武汉/
 中国
 
-Email: mengweiqi7@163.com\
-URL: [weiqimeng7.github.io](https://weiqimeng7.github.io/)
+Email: mengweilu6@163.com\
+URL: [weilumeng.github.io](https://weilumeng.github.io/)
 
-Born: 2000, Handan, Hebei Province, China\
+Born: 1998, Handan, Hebei Province, China\
 Nationality: Chinese
 
 ### 教育背景
-- 2024(expected), M.A.  in Communication Studies, 中南大学, 中国
-  - GPA: 3.68/4.00
-  - Advisor: [Prof. Dongran Song](https://faculty.csu.edu.cn/songdongran1/zh_CN/index.htm) 
-  - Relevant courses: 能源系统工程, 可再生能源发电技术, 智能学习, 现代电力系统分析.
-- 2021, B.A. in Communication, Kunming University of Science and Techenology, China
-  - GPA: 3.91/4.00 
-  - Advisor: [Prof. Bo Yang](https://pwee.kmust.edu.cn/info/1036/1143.htm)
-  - Relevant courses: 电力系统分析, 电机学, 电力电子技术, 高电压技术, 继电保护, 电磁场理论.
+- 2023(expected), M.A. School of Finance, 中南财经政法大学, 中国
+  - GPA: 88.88
+  - Advisor: [Prof. Jincheng Xie](http://finance.zuel.edu.cn/2015/1110/c1177a17976/page.htm) 
+  - Relevant courses: 中级宏微观经济学, 中级计量经济学, 金融投资理论, 公共投资研究, 外国经济史.
+- 2019, B.A. School of Economics and Management, Taiyuan University of Science and Techenology, China
+  - GPA: 85.39 
+  - Advisor: [Prof. Ying Liu](https://mba.tyust.edu.cn/info/1120/1985.htm)
+  - Relevant courses: 概率论与数理统计, 数学建模之数学实验, 西方经济学, 微积分, 线性代数, 运筹学.
 
 
 ### 研究兴趣
-能源系统优化, 电力市场, 运筹优化, 数学求解器, 智能算法, MATLAB/simulink
+家庭经济学, 人口、资源和环境经济学
 
-### 发表物 & 会议
+### 发表物 & Working paper
 #### 期刊论文
-1. D. Song,**W. Meng**, M. Dong, J. Yang, J. Wang, X. Chen, et al. A critical survey of integrated energy system: Summaries, methodologies and analysis.**Energy Conversion and Management**. 266 (2022) 115863.[*ECM收录原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0196890422006598-main.pdf). 
-#### 会议论文
-2. 赵燃,杨建,宋冬然,**孟维琦**,常青,王力. 考虑风电不确定性的风火储能源系统鲁棒优化调度研究[C]//.2021*中国自动化大会论文集*,2021:489-494.DOI:10.26914/c.cnkihy.2021.053552.[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/考虑风电不确定性的风火储能源系统鲁棒优化调度研究_赵燃.pdf). 
-3.**孟维琦**,宋冬然,郭达辉,刘笑. 国家层面综合能源系统建模工具及方法综述[C]//.2022*中南大学第二节交叉学科研究生创新论坛工业智能化分论坛粘贴论文集*,2021. [*海报原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/中南大学+2021级+硕士生+孟维琦+13371191243+电气工程+工业智能.pdf).
-
+1. **W. Meng**, G Yuan, Y Sun. Expansion of social networks and household carbon emissions: Evidence from household survey in China. **Energy Policy**. 266 (2022) 115863. 
+2. **孟维璐**. 金融发展与对外直接投资：一个文献综述. **中南财经政法大学研究生论丛**. 07 (2021). 
+#### Working paper
+3. **W. Meng**, G Yuan. Robots and household stock market participation. International Review of Financial Analysis. 2022. *under review*. 
+4. G Yuan, H Sun, **W Meng**, Y Sun. Inclusive finance and household carbon emissions：
+Evidence from household survey in China. Climate Policy, 2021. *under review*.
+5. **W. Meng**, G Yuan. Can air quality information disclosure help hinder global warming?
+Evidence from household-level survey data in China. 2022. *Waiting Submission*.
 
 ### Volunteer  Experiences
 
@@ -64,18 +67,9 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 
 ### Assistantships, Grants, and Awards
 
-- 2019.04-2019.05    全国大学生英语竞赛**国家三等奖**；全国大学生知识竞赛优秀奖 ；
-- 2017.09-2019.06    **云南省政府奖学金**（专业前1%）；**云南省“三好学生”**（专业前1%，2次）；
-- 2017.09-2020.05    昆明理工大学“优秀学生奖学金”（**特等3次、甲等3次、突出才艺1次**）；“**三好学生标兵**(3次)”、“优秀共青团员”荣誉称号；“数学建模”优胜奖；
-- 2017.09-2020.01    电力工程学院“华为LED设计大赛”二等奖；“文体知识竞赛”团队二、三等奖；
-- 2021.07                   昆明理工大学2021年度**优秀毕业生**，优秀毕业论文；
-- 2022.07-至今          中南大学2021年度**自强之星提名奖**，数学建模**湖南省赛三等奖、华为杯国赛三等奖**（队长），2021-2022年度**国家奖学金**，中南大学**一等奖学金**， 中南大学**优秀学生、优秀党员、优秀共青团员**， 等等；
+- 2015.09-2019.07    中国未来投资精英挑战赛**优秀奖**，太原科技大学第二届数理文化节大学生数学趣味知识竞赛**三等奖**，太原科技大学**一等奖学金**，太原科技大学**三等奖学金**，太原科技大学《我与国旗有个约定》**优秀参训队员**.
+- 2020.09-至今    第二届全国高校创新英语词汇挑战赛**三等奖**，中南财经政法大学2021年度**道德风尚奖**，中南财经政法大学**一等奖学金**， 中南财经政法大学**优秀共青团员**， 等等；
 
 
-- 2019.04-2019.05 National College English Competition **National Third Prize**; Excellent Award of National College Student Knowledge Competition;
-- 2017.09-2019.06 **Yunnan Provincial Government Scholarship** (top 1% of majors) **" Three Good Students" in Yunnan Province** (first 1% of majors, twice);
-- 2017.09-20205.05 "Outstanding Student Scholarship" of Kunming University of Technology (**3 times for special class, 3 times for first class, and 1 time for outstanding talent**); "**Three good student pacesetters** (3 times)", "Excellent Communist Youth League member" honorary title; Winner of "Mathematical Modeling";
-- 2017.09-2020.01 The second prize of the "Huawei LED Design Competition" of the School of Electric Power Engineering; The second and third prizes of the team of "Sports Knowledge Competition";
-- 2021.07 Kunming University of Technology **Outstanding Graduates** in 2021, excellent graduation thesis;
-- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award in 2021,** Third Prize in Mathematical Modeling **Provincial Contest and National Contest** (Team Leader), **National Scholarship** in 2021-2022, Central South University **outstanding students, outstanding party members, outstanding Communist Youth League members**, and so on;
-
+- 2015.09-2019.07, China Future Investment Elite Challenge **Excellence Award**, Taiyuan University of Science and Technology Second Mathematics and Science Culture Festival College Student Mathematical Fun Knowledge Contest **Third Prize**, Taiyuan University of Science and Technology **First Prize Scholarship**, Taiyuan University of Science and Technology **Third Class Scholarship**, Taiyuan University of Science and Technology "I have an agreement with the national flag" **Excellent trainees**.
+- From July 2022 to now, The 2nd National College Innovative English Vocabulary Challenge **Third Prize**, Zhongnan University of Economics and Law 2021 **Moral Style Award**, Zhongnan University of Economics and Law **First Prize**, Zhongnan University of Economics and Law**Excellent Communist Youth League Member**, and so on;

@@ -35,10 +35,6 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     name = "Instagram"
     url = "/en/Instagram"
     weight = 6
-[[menu.en]]
-    name = "中文"
-    url = "/cn/日志/"
-    weight = 7
 
 [params]
     description = "Peronal website of Your Name"

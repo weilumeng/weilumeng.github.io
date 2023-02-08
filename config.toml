@@ -24,17 +24,14 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     url = "/en/publications/"
     weight = 3 
 [[menu.en]]
-    name = "Notes&Projects"
-    url = "/en/Notes&Projects/"
+    name = "Projects"
+    url = "/en/Projects/"
     weight = 4 
 [[menu.en]]
     name = "Blogs"
     url = "/en/Blogs/"
     weight = 5
-[[menu.en]]
-    name = "Instagram"
-    url = "/en/Instagram"
-    weight = 6
+
 
 [params]
     description = "Peronal website of Your Name"

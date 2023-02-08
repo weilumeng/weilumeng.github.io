@@ -9,13 +9,9 @@ toc: true
 
 ## Projects
 
-
-{{<figure src="/image/Xue/UUV.png">}}
-
-      1. National Natural Science Foundation of China (Grant No. 72074069);
-      2. Special project of innovation research for young teachers of Zhongnan University of Economics and Law;
-      3. Postgraduate Research and Innovation Platform Project;
-
+1. National Natural Science Foundation of China (Grant No. 72074069);
+2. Special project of innovation research for young teachers of Zhongnan University of Economics and Law;
+3. Postgraduate Research and Innovation Platform Project;
 
 
 

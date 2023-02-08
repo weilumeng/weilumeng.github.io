@@ -13,7 +13,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.en]]
     name = "Home"
-    url = "/"
+    url = "/en/"
     weight = 1
 [[menu.en]]
     name = "CV"

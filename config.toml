@@ -1,5 +1,5 @@
-baseURL = "https://weilumeng.github.io/"
-locale = "en-US"
+baseURL = "https://weilumeng6.github.io/"
+languageCode = "en-us"
 title = "Weilu Meng"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
@@ -22,87 +22,78 @@ enableRobotsTXT = true
 
 [[menu.en]]
     name = "Conferences"
-    url = "/conferences/"
+    url = "/conference/"
     weight = 4
-
-
 
 [params]
     description = "Personal academic website of Weilu Meng"
-
-    GithubEdit = "https://github.com/weilumeng/weilumeng.github.io/edit/main/content/"
-
+    homeText = "PhD Student in Economics, The University of Queensland"
+    blogDirName = "blog"
+    singleLang = true
+    defaultLang = "en"
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+    favicon = "image/Vicky.jpg"
+    GithubEdit = "https://github.com/WeiluMeng/WeiluMeng.github.io/edit/master/content/"
+    copyright = "&copy;"
     copyrightYear = "2022-2026"
-
-    GithubRepo = "https://github.com/weilumeng/weilumeng.github.io"
-
-    ContentSource = "https://raw.githubusercontent.com/weilumeng/weilumeng.github.io/main/content/"
+    GithubRepo = "https://github.com/WeiluMeng/WeiluMeng.github.io"
+    ContentSource = "https://raw.githubusercontent.com/WeiluMeng/WeiluMeng.github.io/master/content/"
 
 [params.logo]
-
-  # Change the logo picture as your prefer:
-
-  url = "image/Vicky.jpg"
-  width = 50.0
-  height = 50.0
-  alt = "Weilu-Meng"
+    url = "image/Vicky.jpg"
+    width = 70.0
+    height = 70.0
+    alt = "Weilu Meng"
 
 [params.lang]
 
     [params.lang.author]
       en = "Weilu Meng"
-      cn = "鹿吉路"
-    
+
     [params.lang.madeWith]
       en = "Made with"
-      cn = "本站驱动"
-    
+
     [params.lang.edit]
       en = "Suggest an edit of this page"
-      cn = "编辑本页"
-    
+
     [params.lang.lastupdate]
       en = "Last modified on"
-      cn = "最后一次修改于"
-    
+
     [params.lang.Sitelastupdate]
       en = "Site last updated on"
-      cn = "最近一次更新于"
-    
+
     [params.lang.sourceCode]
       en = "Content in"
-      cn = "内容存于"
-    
+
     [params.lang.subscribe]
       en = "Subscribe"
-      cn = "订阅"
-    
+
     [params.lang.license]
       en = "License"
-      cn = "版权"
 
 [markup]
- defaultMarkdownHandler = "goldmark"
+  defaultMarkdownHandler = "goldmark"
 
   [markup.goldmark]
 
     [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = false
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
-    
+      definitionList = true
+      footnote = true
+      linkify = false
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
     [markup.goldmark.parser]
-    attribute = true
-    autoHeadingID = true
-    
+      attribute = true
+      autoHeadingID = true
+
     [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = true
-    xHTML = false
+      hardWraps = false
+      unsafe = true
+      xHTML = false
 
   [markup.highlight]
     codeFences = true
@@ -116,9 +107,13 @@ enableRobotsTXT = true
     tabWidth = 4
 
   [markup.tableOfContents]
-  endLevel = 3
-  ordered = true
-  startLevel = 2
+    endLevel = 3
+    ordered = true
+    startLevel = 2
 
 [imaging]
 quality = 100
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

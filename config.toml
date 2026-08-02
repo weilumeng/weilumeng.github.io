@@ -1,15 +1,9 @@
-baseURL = "https://WeiluMeng.github.io/"
-languageCode = "en-us"
-title = "WeiluMeng"
+baseURL = "https://weilumeng.github.io/"
+locale = "en-US"
+title = "Weilu Meng"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
-# enableGitInfo = true
-
-[permalinks]
-cn = "/cn/:year/:month/:day/:slug/"
-en = "/en/:year/:month/:day/:slug/"
-Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.en]]
     name = "Home"
@@ -18,17 +12,17 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.en]]
     name = "Research"
-    url = "/en/research/"
+    url = "/research/"
     weight = 2
 
 [[menu.en]]
     name = "Teaching"
-    url = "/en/teaching/"
+    url = "/teaching/"
     weight = 3
 
 [[menu.en]]
     name = "Conferences"
-    url = "/en/conferences/"
+    url = "/conferences/"
     weight = 4
 
 

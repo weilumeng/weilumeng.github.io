@@ -1,13 +1,27 @@
 body {
-	font-family: Charter, Georgia, 'Helvetica Neue', Arial,
-	'Songti SC', 'SimSun', 'Hiragino Sans GB','宋体', 'Microsoft YaHei',
-	'STKaiti', 'Kai', 'Kaiti SC', 'KaiTi', 'KaiTi_GB2312', '楷体', sans-serif;
-	font-weight: 400;
+  font-family:
+    "Times New Roman",
+    "Songti SC",
+    "STSong",
+    "SimSun",
+    "宋体",
+    serif;
+
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.75;
 }
 
-/*-apple-system, Avenir Next, */
+code,
+pre,
+kbd,
+samp {
+  font-family:
+    "Consolas",
+    "Menlo",
+    "Monaco",
+    "Courier New",
+    monospace;
 
-code {
-  font-family: 'Menlo', 'Monaco', 'Courier New',  'Courier', monospace;
-  font-size: 14px;
+  font-size: 15px;
 }

@@ -8,7 +8,7 @@ title: "Teaching"
 
 **ECON3360: Causal Inference for Microeconometrics**  
 Tutor, Semester 2, 2026  
-Undergraduate course in applied microeconometrics and causal inference.
+Undergraduate course in applied microeconometrics.
 
 **ECON7000: Foundations in Microeconomics**  
 Tutor, Semester 1, 2026  

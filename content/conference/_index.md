@@ -2,7 +2,7 @@
 title: "Conferences"
 ---
 
-- ## Conference Presentations
+ ## Conference Presentations
 
   - **2026** — *3rd Global Doctoral Forum*, Central University of Finance and Economics, Beijing, China.
 

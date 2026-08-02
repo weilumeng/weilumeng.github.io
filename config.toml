@@ -15,78 +15,34 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     name = "Home"
     url = "/"
     weight = 1
+
 [[menu.en]]
-    name = "CV"
-    url = "/en/about/"
+    name = "Research"
+    url = "/en/research/"
     weight = 2
-[[menu.en]]
-    name = "Publications"
-    url = "/en/publications/"
-    weight = 3 
-[[menu.en]]
-    name = "Projects"
-    url = "/en/Projects/"
-    weight = 4 
-[[menu.en]]
-    name = "Blogs"
-    url = "/en/Blogs/"
-    weight = 5
-[[menu.en]]
-    name = "中文"
-    url = "/cn/日志/"
-    weight = 7
 
+[[menu.en]]
+    name = "Teaching"
+    url = "/en/teaching/"
+    weight = 3
 
-
-[[menu.cn]]
-    name = "简历"
-    url = "/cn/本科简历/"
-    weight = 1
-[[menu.cn]]
-    name = "刊物"
-    url = "/cn/刊物/"
-    weight = 2 
-[[menu.cn]]
-    name = "笔记&项目"
-    url = "/cn/笔记&项目/"
-    weight = 3 
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/关于/"
+[[menu.en]]
+    name = "Conferences"
+    url = "/en/conferences/"
     weight = 4
-[[menu.cn]]
-    name = "日志"
-    url = "/cn/日志/"
-    weight = 5
-[[menu.cn]]
-    name = "照片墙"
-    url = "/cn/照片墙/"
-    weight = 6
-[[menu.cn]]
-    name = "英文"
-    url = "/"
-    weight = 7
 
 
 
 [params]
-    description = "Peronal website of Your Name"
-    homeText = "You just need a Hugo blog from scratch"
-    # Please make sure `blogDirNmae` matches the name used in `menu` above:
-    blogDirName = "Blogs"
-    # singleLang = true
-    defaultLang = "en"
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
-    MathJaxVersion = "2.7.5"
-    favicon = "image/Vicky.jpg"
-    # Edit by yourself:
-    GithubEdit = "https://github.com/WeiluMeng/WeiluMeng.github.io/edit/master/content/"
-    copyright = "&copy;"
-    copyrightYear = "2022-2024"
-    # Edit by yourself:
-    GithubRepo = "https://github.com/WeiluMeng/WeiluMeng.github.io"
-    # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/WeiluMeng/WeiluMeng.github.io/master/content/" 
+    description = "Personal academic website of Weilu Meng"
+
+    GithubEdit = "https://github.com/weilumeng/weilumeng.github.io/edit/main/content/"
+
+    copyrightYear = "2022-2026"
+
+    GithubRepo = "https://github.com/weilumeng/weilumeng.github.io"
+
+    ContentSource = "https://raw.githubusercontent.com/weilumeng/weilumeng.github.io/main/content/"
 
 [params.logo]
 

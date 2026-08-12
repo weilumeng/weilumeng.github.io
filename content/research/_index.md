@@ -23,7 +23,3 @@ Household economics, public economics, applied econometrics, and household finan
 
 2. *Beyond Direct Displacement: How Risk Perceptions Shape Labor Market Responses to Natural Disasters*
 
-## Work in Progress
-
-1. *The Gig Economy and Urban Crime: Evidence from China*  
-   (with Gecheng Yuan and Yidan Wang)

@@ -4,7 +4,7 @@ title: "Research"
 
 ## Research Fields
 
-Household economics, public economics, applied econometrics, and household finance.
+Household Economics; Public Economics; Applied Econometrics; Household Finance
 
 ## Journal Publications
 
@@ -18,8 +18,10 @@ Household economics, public economics, applied econometrics, and household finan
 
 ## Working Papers
 
-1. *Can Air Quality Information Disclosure Help Reduce Household Carbon Emissions? Evidence from China*  
-   (with Gecheng Yuan)
+1. *Beyond Direct Displacement: How Risk Perceptions Shape Labor Market Responses to Natural Disasters*. R&R at *Applied Economics*.
 
-2. *Beyond Direct Displacement: How Risk Perceptions Shape Labor Market Responses to Natural Disasters*
+2. *Revaluing What Matters for Homes: Housing Markets in Post-COVID Australia*. With Todd Morris, Lizi Yu, Nick Garvin, and Gianni La Cava.
 
+3. *After the Windfall: Positive Financial Shocks and the Dynamics of Financial Risk Tolerance*. With Gecheng Yuan and Yongping Sun. Submitted to *Journal of Banking & Finance*.
+
+4. *The Gig Economy and Urban Crime: Evidence from China*. With Gecheng Yuan and Yidan Wang.

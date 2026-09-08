@@ -1,5 +1,5 @@
-cd /d/quickstart_new
+cd "/c/Users/s4932971/OneDrive - The University of Queensland/quickstart"
 git status
 git add .
 git commit -m "Update website content"
-git push origin master
+git push origin main

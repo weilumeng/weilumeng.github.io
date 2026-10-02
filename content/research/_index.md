@@ -4,7 +4,7 @@ title: "Research"
 
 ## Research Fields
 
-Household Economics; Public Economics; Applied Econometrics; Household Finance
+Household Economics, Labor Economics, Applied Econometrics.
 
 ## Journal Publications
 

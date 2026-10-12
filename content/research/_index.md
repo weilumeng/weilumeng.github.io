@@ -8,7 +8,7 @@ title: "Research"
 
 ## Journal Publications
 
-1. **Meng, W.**. *Beyond Direct Displacement: How Risk Perceptions Shape Labor Market Responses to Natural Disasters*. *Applied Economics*. (forthcoming)
+1. **Meng, W.**. (2026). [*Beyond Direct Displacement: How Risk Perceptions Shape Labor Market Responses to Natural Disasters*](https://doi.org/10.1080/00036846.2026.2742443). *Applied Economics*.
 
 2. **Meng, W.**, Lu, W., Yuan, G., and Zhou, L. (2025). [*Automation and Stock Market Participation*](https://doi.org/10.1016/j.pacfin.2025.102888). *Pacific-Basin Finance Journal*, 93, 102888.
 

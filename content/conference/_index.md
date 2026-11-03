@@ -6,7 +6,7 @@ title: "Conferences"
 
 - **2026** — *3rd International Doctoral Forum*, Central University of Finance and Economics, Beijing, China.
 
-- **2025** — *Business, Economics and Law (BEL) HDR Colloquium*, The University of Queensland, Brisbane, QLD.  
+- **2025** — *27th Business, Economics and Law (BEL) HDR Colloquium*, The University of Queensland, Brisbane, QLD.  
   Recipient of the **Best Presentation Award**.
 
 - **2025** — *34th Australian Labour Market Research Workshop (ALMRW)*, Canberra, ACT.
